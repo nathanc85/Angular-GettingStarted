@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular: Getting Started';
+  title = 'Angular: Getting Started Now';
+  weekDay: string = 'Monday';
 }
